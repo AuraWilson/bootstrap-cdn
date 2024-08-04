@@ -1,0 +1,14 @@
+.box { 
+    height: 60px;
+    width: 300px;
+    background-color: rgb(99, 176, 218);
+}
+
+.navbar{
+    height: 60px;
+    background-color: pink;
+}
+
+.box {
+    background-color: blanchedalmond;
+}
